@@ -1,4 +1,25 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --coverage "
+  },
+  "bin": {
+    "md-links": "newcli.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "jest": "^26.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marcellita/SAP004-md-links"
+  },
+  "author": "Marcella Teliceski",
+  "license": "MIT",
+  "homepage": "https://github.com/Marcellita/SAP004-md-links#README.md"
 }
