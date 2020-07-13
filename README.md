@@ -29,7 +29,7 @@ o Node.Js ([Link de Instalação](https://pt.wikipedia.org/wiki/Markdown)).
 
 Assim para a instalação da biblioteca em si, é só rodar o comando: 
 
-`npm install <Marcellita>/md-links` 
+`npm install -g <Marcellita>/md-links` 
 
 Para rodar esse comando, é necessário acessar o terminal dentro do projeto que deseja
 utilizar essa biblioteca. 
